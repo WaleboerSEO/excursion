@@ -8,13 +8,26 @@ h1 {
     font-size: 50px;
     font-weight: normal;
     color: white;
-    margin-block-start: 0.67em;
-    margin-block-end: 0.67em;
-    margin-inline-end: 0px;
     display: block;
 }
 
 .cta {
     font-size: 16px;
     color: aquamarine;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    display: block;
+    color: white;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+}
+
+.right {
+    float: right;
 }
